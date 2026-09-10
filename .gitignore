@@ -1,0 +1,14 @@
+# Generated output -- regenerated each run, don't commit
+generated_docs/
+generation_log.csv
+milestones_review.csv
+
+# Source data -- contains real staff names/data, don't commit
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# OS/editor cruft
+.DS_Store
